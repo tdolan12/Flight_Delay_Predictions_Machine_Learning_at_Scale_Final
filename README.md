@@ -83,13 +83,6 @@ Real-time streaming data integration
 Enhanced feature engineering with additional external data sources
 Production deployment with monitoring and A/B testing
 
-Project Structure
-├── data/                   # Data processing and ETL pipelines
-├── notebooks/             # Jupyter notebooks for EDA and modeling
-├── src/                   # Source code for models and utilities
-├── docs/                  # Project documentation and presentations
-└── README.md             # This file
-Course Context
 This project was completed as the final assignment for DATASCI 261: Machine Learning at Scale at UC Berkeley's School of Information, demonstrating proficiency in distributed computing, large-scale machine learning, and production ML system design.
 
 For questions or collaboration opportunities, please reach out.
