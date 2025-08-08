@@ -4,7 +4,9 @@ An enterprise-scale machine learning pipeline built to predict flight delays 15+
 Authors
 UC Berkeley I-School Machine Learning at Scale Final Project (Spring 2024)
 
+
 Developers and Authors: _Thomas Dolan, Nathan Arias, I-Hsiu Kao, Maegan Kornexl_
+
 
 Team 1, Emerald Airlines UI/UX Feature Research Department
 Problem Statement
