@@ -1,13 +1,10 @@
-## Flight Delay Prediction System - "Delay Dissatisfaction (D2)" 
-# Project Overview
+# Flight Delay Prediction System - "Delay Dissatisfaction (D2)" 
+## Project Overview
 An enterprise-scale machine learning pipeline built to predict flight delays 15+ minutes in advance with 2-3 hours lead time, addressing customer experience and airline operational efficiency challenges.
 Authors
 UC Berkeley I-School Machine Learning at Scale Final Project (Spring 2024)
 
-Thomas Dolan - LinkedIn
-Nathan Arias - LinkedIn
-I-Hsiu Kao - LinkedIn
-Maegan Kornexl - LinkedIn
+Developers and Authors: _Thomas Dolan, Nathan Arias, I-Hsiu Kao, Maegan Kornexl_
 
 Team 1, Emerald Airlines UI/UX Feature Research Department
 Problem Statement
