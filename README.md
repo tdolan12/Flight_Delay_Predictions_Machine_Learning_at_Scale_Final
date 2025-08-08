@@ -9,7 +9,7 @@ Developers and Authors: _Thomas Dolan, Nathan Arias, I-Hsiu Kao, Maegan Kornexl_
 
 
 ## Team 1, Emerald Airlines UI/UX Feature Research Department
-Problem Statement
+### Problem Statement
 Business Impact:
 
 7,000-9,000 flights delayed daily (25% of all flights annually)
